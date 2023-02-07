@@ -100,4 +100,4 @@ module.exports = {
 
 ## Spheron
 
-https://github.com/Disha1998/for-tescrow-readme/blob/main/Spheron.md
+https://github.com/Disha1998/Tescrow/blob/master/Spheron.md
